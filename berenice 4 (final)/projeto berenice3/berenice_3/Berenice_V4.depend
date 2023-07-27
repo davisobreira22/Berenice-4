@@ -1,0 +1,374 @@
+# depslib dependency file v1.0
+1684869322 source:c:\algoritmos\berenice_v4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"berenice.h"
+
+1684794077 c:\algoritmos\berenice_v4\berenice.h
+
+1684795799 source:c:\algoritmos\berenice_v4\submenu.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"berenice.h"
+
+1684869316 source:c:\algoritmos\berenice_v4\exibir.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"berenice.h"
+
+1684797794 source:c:\algoritmos\berenice_v4\cadastrar.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	"berenice.h"
+
+1684762468 source:c:\algoritmos\berenice_v4\atualizar.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	"berenice.h"
+
+1684794853 source:c:\algoritmos\berenice_v4\excluir.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	"berenice.h"
+
+1684794040 source:c:\algoritmos\berenice_v4\ler.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"Berenice.h"
+
+1684794651 source:c:\algoritmos\berenice_v4\salvar.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"berenice.h"
+
+1684869695 source:c:\users\dell_\onedrive\desktop\berenice\atualizar.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	"berenice.h"
+
+1684874761 c:\users\dell_\onedrive\desktop\berenice\berenice.h
+
+1684876600 source:c:\users\dell_\onedrive\desktop\berenice\cadastrar.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	"berenice.h"
+
+1684875046 source:c:\users\dell_\onedrive\desktop\berenice\excluir.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	"berenice.h"
+
+1684875197 source:c:\users\dell_\onedrive\desktop\berenice\exibir.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"berenice.h"
+
+1684869695 source:c:\users\dell_\onedrive\desktop\berenice\ler.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"Berenice.h"
+
+1684876336 source:c:\users\dell_\onedrive\desktop\berenice\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"berenice.h"
+
+1684869695 source:c:\users\dell_\onedrive\desktop\berenice\salvar.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"berenice.h"
+
+1684877433 source:c:\users\dell_\onedrive\desktop\berenice\submenu.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"berenice.h"
+
+1684880011 source:c:\users\jorge rafael\desktop\berenice_3\atualizar.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	"berenice.h"
+
+1684887258 c:\users\jorge rafael\desktop\berenice_3\berenice.h
+
+1684880012 source:c:\users\jorge rafael\desktop\berenice_3\cadastrar.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	"berenice.h"
+
+1684880012 source:c:\users\jorge rafael\desktop\berenice_3\excluir.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	"berenice.h"
+
+1684880012 source:c:\users\jorge rafael\desktop\berenice_3\exibir.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"berenice.h"
+
+1684880012 source:c:\users\jorge rafael\desktop\berenice_3\ler.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"Berenice.h"
+
+1684880012 source:c:\users\jorge rafael\desktop\berenice_3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"berenice.h"
+
+1684880012 source:c:\users\jorge rafael\desktop\berenice_3\salvar.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"berenice.h"
+
+1684889431 source:c:\users\jorge rafael\desktop\berenice_3\submenu.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"berenice.h"
+
+1684882848 source:c:\users\jorge rafael\desktop\berenice_3\venda.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	"berenice.h"
+
+1684889444 source:c:\users\jorge rafael\desktop\berenice_3\venda3.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	"berenice.h"
+
+1684978067 source:c:\users\jfons\downloads\berenice_3\berenice_3\atualizar.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	"berenice.h"
+
+1684979845 c:\users\jfons\downloads\berenice_3\berenice_3\berenice.h
+
+1684980445 source:c:\users\jfons\downloads\berenice_3\berenice_3\cadastrar.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	"berenice.h"
+
+1684979749 source:c:\users\jfons\downloads\berenice_3\berenice_3\excluir.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	"berenice.h"
+
+1684978064 source:c:\users\jfons\downloads\berenice_3\berenice_3\exibir.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"berenice.h"
+
+1684980530 source:c:\users\jfons\downloads\berenice_3\berenice_3\ler.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"Berenice.h"
+
+1684980469 source:c:\users\jfons\downloads\berenice_3\berenice_3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"berenice.h"
+
+1684978469 source:c:\users\jfons\downloads\berenice_3\berenice_3\salvar.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"berenice.h"
+
+1684979855 source:c:\users\jfons\downloads\berenice_3\berenice_3\submenu.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"berenice.h"
+
+1684978270 source:c:\users\jfons\downloads\berenice_3\berenice_3\venda3.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	"berenice.h"
+
+1684967438 source:c:\users\jfons\downloads\berenice_3\berenice_3\funcoes.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	"berenice.h"
+
+1686090270 source:c:\users\jfons\onedrive\햞ea de trabalho\berenice_3\berenice_3\atualizar.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	"berenice.h"
+
+1686090270 c:\users\jfons\onedrive\햞ea de trabalho\berenice_3\berenice_3\berenice.h
+
+1686090270 source:c:\users\jfons\onedrive\햞ea de trabalho\berenice_3\berenice_3\cadastrar.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	"berenice.h"
+
+1686090270 source:c:\users\jfons\onedrive\햞ea de trabalho\berenice_3\berenice_3\excluir.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	"berenice.h"
+
+1686090270 source:c:\users\jfons\onedrive\햞ea de trabalho\berenice_3\berenice_3\exibir.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"berenice.h"
+
+1686090270 source:c:\users\jfons\onedrive\햞ea de trabalho\berenice_3\berenice_3\ler.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"Berenice.h"
+
+1686090270 source:c:\users\jfons\onedrive\햞ea de trabalho\berenice_3\berenice_3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"berenice.h"
+
+1686090270 source:c:\users\jfons\onedrive\햞ea de trabalho\berenice_3\berenice_3\salvar.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"berenice.h"
+
+1686090270 source:c:\users\jfons\onedrive\햞ea de trabalho\berenice_3\berenice_3\submenu.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"berenice.h"
+
+1686090270 source:c:\users\jfons\onedrive\햞ea de trabalho\berenice_3\berenice_3\venda3.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	"berenice.h"
+
+1687831714 source:c:\users\dell_\onedrive\desktop\nova pasta\projeto berenice3\berenice_3\atualizar.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	"berenice.h"
+
+1687834024 c:\users\dell_\onedrive\desktop\nova pasta\projeto berenice3\berenice_3\berenice.h
+
+1687831231 source:c:\users\dell_\onedrive\desktop\nova pasta\projeto berenice3\berenice_3\cadastrar.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	"berenice.h"
+
+1687821943 source:c:\users\dell_\onedrive\desktop\nova pasta\projeto berenice3\berenice_3\excluir.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	"berenice.h"
+
+1687821943 source:c:\users\dell_\onedrive\desktop\nova pasta\projeto berenice3\berenice_3\exibir.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"berenice.h"
+
+1687833330 source:c:\users\dell_\onedrive\desktop\nova pasta\projeto berenice3\berenice_3\ler.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	"berenice.h"
+
+1687834234 source:c:\users\dell_\onedrive\desktop\nova pasta\projeto berenice3\berenice_3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"berenice.h"
+
+1687821943 source:c:\users\dell_\onedrive\desktop\nova pasta\projeto berenice3\berenice_3\salvar.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"berenice.h"
+
+1687829152 source:c:\users\dell_\onedrive\desktop\nova pasta\projeto berenice3\berenice_3\submenu.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"berenice.h"
+
+1687834897 source:c:\users\dell_\onedrive\desktop\nova pasta\projeto berenice3\berenice_3\venda3.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	"berenice.h"
+
+1687831486 source:c:\users\dell_\onedrive\desktop\nova pasta\projeto berenice3\berenice_3\inicializa.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	"berenice.h"
+
